@@ -13,6 +13,7 @@ To specify the margin of the first title h1
 .remark-slide-content > h1:first-of-type {
   margin-top: 5px;
   margin-bottom: 10px;
+  color: #1E66AD;
 }
 .remark-slide-content > h2:first-of-type {
   color: #e64626;
@@ -507,3 +508,22 @@ Accent grey - supportive #F1F1F1
 C=0 M=0 Y=0 K=10
 R=241 G=241 B=241 
 */
+
+
+.title-VIDAS {
+  position: relative;
+  z-index: 1;
+}
+
+.title-VIDAS::before {    
+      content: "";
+      background-image: url('../figures/Background.png');
+      background-size: cover;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.2;
+      z-index: -1;
+}

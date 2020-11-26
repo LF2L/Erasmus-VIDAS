@@ -16,25 +16,68 @@
   </head>
   <body>
     <textarea id="source">
-class: center, middle, inverse, title-slide
 
-# <strong>Proposition for Erasmus+ Project</strong>:<br>VIrtual and Distributed Academic Sandbox (VIDAS)
+
+
+
+
+
+
+
+
+class: left, middle, title-VIDAS, hide_logo
+
+
+# **Proposition for Erasmus+ Project**:&lt;br&gt;VIrtual and Distributed Academic Sandbox (VIDAS)
+
 ## Empowering educators and trainees to endure under restricted non-presential contexts
+
 ### ERPI Laboratory
-### Université de Lorraine
-### 2020/11/26 (updated: 2020-11-26)
+
+
+### Nancy, France &amp;mdash; Nov 26/2020
+
+.footnote[Last update: 2020-11-26]
+
 
 ---
 
-
-
-
-
-
-
-
+<div>
+<style type="text/css">.xaringan-extra-logo {
+width: 110px;
+height: 128px;
+z-index: 0;
+background-image: url(https://erpi.univ-lorraine.fr/assets/images/logo-ERPI.svg);
+background-size: contain;
+background-repeat: no-repeat;
+position: absolute;
+top:1em;right:1em;
+}
+</style>
+<script>(function () {
+  let tries = 0
+  function addLogo () {
+    if (typeof slideshow === 'undefined') {
+      tries += 1
+      if (tries < 10) {
+        setTimeout(addLogo, 100)
+      }
+    } else {
+      document.querySelectorAll('.remark-slide-content:not(.title-slide):not(.inverse):not(.hide_logo)')
+        .forEach(function (slide) {
+          const logo = document.createElement('div')
+          logo.classList = 'xaringan-extra-logo'
+          logo.href = null
+          slide.appendChild(logo)
+        })
+    }
+  }
+  document.addEventListener('DOMContentLoaded', addLogo)
+})()</script>
+</div>
 
 # Context
+
 
 -  The use of Virtual Technologies (VTs) in developing academic and business projects will be the rule.
 
