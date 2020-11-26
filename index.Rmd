@@ -181,8 +181,3 @@ From our side it could be mentioned:
 
 - UL-TU DELFT: Since more than 10 years the both universities are part of the IAMOT -- ICE communities (Innovation and technology management). Since 2017 a joint semester at the master's degree level has been implemented within the framework of the Erasmus program. A co-supervised PhD has been accomplished in 2018. To finish in 2019, Dr Ortt has been invited professor at the ENSGSI school for 1-month period. A number of joint scientific papers has been already published.
 
-
----
-class: middle, center
-
-# Thanks

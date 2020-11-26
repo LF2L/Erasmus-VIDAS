@@ -243,3 +243,14 @@ Team creation / Team Building --> Effency
 # Program Structure
 
 ![:scale 90%](figures/Program-structure.png)
+
+
+
+---
+
+class: middle, center
+
+# Thank you
+
+## Université de Lorraine - ERPI Laboratory
+
