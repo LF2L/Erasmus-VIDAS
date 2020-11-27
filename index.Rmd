@@ -61,7 +61,7 @@ The call will be available at the end of November 2020
 # Proposition for Erasmus+ Project
 
 
-```{r embed-xaringan, echo=FALSE}
+```{r embed-xaringan, echo=FALSE, layout="l-body-outset"}
 
 embed_xaringan(url = "slides/presentation.html", ratio = "16:9")
 
