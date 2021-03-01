@@ -91,7 +91,7 @@ Eramus.rules <-
     "Duration of projects",   "Partnerships in the field of higher education: between 24 and 36 months;",
     
     "Funding rules",  "Maximum grant awarded: a variable amount, defined by multiplying 12 500 EUR by the duration of the project (in months) and up to 450 000 EUR for projects with duration of 36 months ",
-    "When to apply?",   "Not defined yet for 2021"
+    "When to apply?",   "Not yet defined for 2021"
   )
 
 
@@ -107,7 +107,7 @@ Eramus.rules %>%
 
 ::: { .content-box-red width="80%"}
 
-Today **Dec 03/2020**: the call 2020-2021 will be available in the next days..
+Today **Mars 01/2021**: the call 2020-2021 will be available in the next days..
 :::
 
 
@@ -138,7 +138,7 @@ Moreover, *EFFENCY* is a multicultural start-up that specialises in maximising c
 
 Therefore, the main expected goals of this project includes
 
-1.  The development of a educational toolkit for innovation project management in distributed teams
+1.  The development of an educational toolkit for innovation project management in distributed teams
 
     -   Teams creation
 
