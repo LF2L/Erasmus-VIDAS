@@ -10,6 +10,12 @@ author:
     affiliation: ERPI
     affiliation_url: https://erpi.univ-lorraine.fr/
     orcid_id: 0000-0003-3867-2438 
+  - first_name: "Giovanny"
+    last_name: "Arbelaez"
+    url: https://erpi.univ-lorraine.fr/people/Giovanny-Arbelaez/
+    affiliation: ERPI
+    affiliation_url: https://erpi.univ-lorraine.fr/
+    #orcid_id: 0000-0001-6199-2304
   - first_name: "Ferney"
     last_name: "Osorio"
     url: https://erpi.univ-lorraine.fr/people/Ferney-Osorio/
