@@ -3,6 +3,7 @@ title: "Erasmus+ VIDAS"
 description: |
   Empowering educators and trainees to endure under restricted non-presential contexts
 author:
+    
   - first_name: "Mauricio"
     last_name: "Camargo"
     url: https://erpi.univ-lorraine.fr/people/Mauricio-Camargo/
@@ -42,14 +43,12 @@ author:
     affiliation: TU-Delft
     affiliation_url: https://www.tudelft.nl/en/tpm/about-the-faculty/departments/values-technology-and-innovation/people/associate-professors/dr-jr-roland-ortt/
     orcid_id: 0000-0003-1516-7121
-    
-  - first_name: "Prof. Dr. Gordon"
-    last_name: "Müller-Seitz"
-    url: https://sic.wiwi.uni-kl.de/en/team/chair-prof-dr-gordon-mueller-seitz/
-    affiliation: TU-Kaiserslautern
-    affiliation_url: https://wiwi.uni-kl.de/
-    orcid_id: 0000-0003-1516-7121
-
+  - first_name: "Prof. Uni Sttutgart?"
+#    last_name: "Müller-Seitz"
+#    url: https://sic.wiwi.uni-kl.de/en/team/chair-prof-dr-gordon-mueller-seitz/
+    affiliation: Uni Sttutgart
+#    affiliation_url: https://wiwi.uni-kl.de/
+#    orcid_id: 0000-0003-1516-7121
     
             
 site: distill::distill_website
@@ -107,7 +106,12 @@ Eramus.rules %>%
 
 ::: { .content-box-red width="80%"}
 
-Today **Mars 01/2021**: the call 2020-2021 will be available in the next days..
+Today **Mars 09/2021**: the call 2020-2021 will be available in the next days.. See [Programming period 2021-2027](https://www.eacea.ec.europa.eu/grants/2021-2027_en (https://www.eacea.ec.europa.eu/grants/2021-2027_en)
+
+Last News from Website:
+>*"... Launching the new EACEA website allows our Agency to focus on the exciting new opportunities that will soon be available in the 2021-2027 generation of projects."* 
+[News Feb. 22/2021](https://www.eacea.ec.europa.eu/news-events/news/important-information-beneficiaries-ongoing-projects-2021-02-22_en) 
+
 :::
 
 
@@ -130,7 +134,7 @@ The European Commission, and more specifically the Erasmus+ Program, have respon
 
 The goal is to reinforce the ability of education and training institutions to provide high quality, inclusive digital education. The focus will be on building capacity to implement online blended and distance teaching and learning; to develop digital pedagogical competences of educators, enabling them to deliver high quality inclusive digital education; and to develop and/or use high quality digital content such as innovative online resources and tools. The partnerships will promote networking of institutions across the EU, sharing of resources and expertise, and collaboration with digital technology providers and experts in education and pedagogical practice to develop tailor made solutions adapted to local challenges and realities.
 
-Therefore, the project VIDAS will be particularly target toward the innovation and team management competences under the development of the innovation project between the universities Univ Lorraine, **TU Kaiserslautern** and **Delft**. These three Universities already have a history of partnerships, ranging from student semesters abroad to collaboration on projects. To further bolster these relationships within the current context, the Erasmus+ Program would not only be beneficial but also provide a different paradigm for these institutions to progress in their objective of educating future generations.
+Therefore, the project VIDAS will be particularly target toward the innovation and team management competences under the development of the innovation project between the universities Univ Lorraine, **TU Delft** and **Uni Sttugart?**. These three Universities already have a history of partnerships, ranging from student semesters abroad to collaboration on projects. To further bolster these relationships within the current context, the Erasmus+ Program would not only be beneficial but also provide a different paradigm for these institutions to progress in their objective of educating future generations.
 
 Moreover, *EFFENCY* is a multicultural start-up that specialises in maximising collective intelligence. Over the past four years they have developed blended learning tools such as a digital coach which is easily and directly plugged-in to different collaborative platforms (e.g. Microsoft Teams). The construction of these tools is based on a cognitive science research that empower individuals to accelerate quality relationships within professional and academic contexts. EFFENCY accompanies team members on a regular basis to improve their soft skills and to work better together. The solution evaluates the collaborative profile of a team based on 8 character traits. This diagnostic then enables the team to take advantage of customized digital coaching, according to each member's profile in the team. The coaching program developed by professional coaches consists of theoretical concepts, practical exercises, personal and team challenges, tips and advice all of which will help them find their place within the team and to create cohesion in a more enjoyable atmosphere. The tools developed and implemented by EFFENCY will underscore the already existing network between these universities, catalyse their digital transition and facilitate interactions between students all over Europe.
 
@@ -158,13 +162,12 @@ This project is a step forward of an on-going process of cooperation between the
 
 From our side, it could be mentioned:
 
--   UL-TUK: Since 2000, the Engineering school (ENSGSI) of the Université de Lorraine and the
-
--   Technische Universität Kaiserslautern have a common engineering degree. More than 90 alumni from both universities, has been beneficiated of this program which is awarded since its beginning bythe UFA binational program (French-German Universities Network). Together, a common workshop on industry 4.0 to be held on 2020 has obtained the sponsoring of the UFA program.
-
 -   UL-TU DELFT: Since more than 10 years the both universities are part of the IAMOT -- ICE communities (Innovation and technology management). Since 2017 a joint semester at the master's degree level has been implemented within the framework of the Erasmus program. A co-supervised PhD has been accomplished in 2018. To finish in 2019, Dr Ortt has been invited professor at the ENSGSI school for 1-month period. A number of joint scientific papers has been already published.
 
 - UL-EFFENCY is a multicultural startup based in Paris which specialises in maximising collective intelligence and efficiency. Effency develop blended learning tools such as a digital coach which can be personalised and plugged into collaborative digital platforms. CEO, Alumni from ENSGSI  
+
+
+- **University of Sttutgart** .....
 
 
 ```{r}
